@@ -1,0 +1,8 @@
+:root {
+	--adbaiz-base: #18a74e;
+	--adbaiz-base-rgb: 24, 167, 78;
+}
+
+.preloader__image {
+	background-image: url(../images/loader-2.png);
+}
